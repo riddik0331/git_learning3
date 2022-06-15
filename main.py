@@ -1,4 +1,4 @@
-from nums import plus
+from first.nums import plus
 
 
 if __name__ = '__main__':
